@@ -149,7 +149,10 @@ main {
 }
 
 .max-width-wrapper {
-  max-width: calc(1110 / 16 * 1rem);
-  margin-inline: auto;
+  max-width: 25rem;
+  
+  @media #{$laptop-and-bigger} {
+    max-width: calc(1110 / 16 * 1rem);
+  }
 }
 </style>
