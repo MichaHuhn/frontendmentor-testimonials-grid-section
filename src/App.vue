@@ -96,6 +96,7 @@ main {
         .testimonial-card {
           --color: var(--color-white);
           --background-color: var(--color-moderate-violet);
+          --color-photo-outline: hsl(264deg 82% 70%);
           
           background-image: url('@/assets/images/background-pattern-quotation.svg');
           background-position: top right 1.5rem;
@@ -131,6 +132,7 @@ main {
         .testimonial-card {
           --color: var(--color-light-grayish-blue);
           --background-color: var(--color-very-dark-blackish-blue);
+          --color-photo-outline: var(--color-moderate-violet);
         }
       }
       

@@ -43,6 +43,7 @@ article {
       width: var(--size);
       height: var(--size);
       border-radius: 100vmax;
+      outline: 2px solid var(--color-photo-outline);
     }
     
     .name {

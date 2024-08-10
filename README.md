@@ -6,7 +6,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshots)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,10 +23,18 @@ Users should be able to:
 
 ### Screenshots
 
+Desktop:
+
+![](./screenshot-desktop.png)
+
+Mobile:
+
+![](./screenshot-mobile.png)
+
 ### Links
 
-- Live site: [Add live site URL here](https://your-live-site-url.com)
-- Challenge solution: [Add solution URL here](https://your-solution-url.com)
+- Live site: <https://michahuhn.github.io/frontendmentor-testimonials-grid-section>
+- Challenge solution: <https://www.frontendmentor.io/solutions/testimonials-grid-section-using-vue-96T9IInqUi>
 
 ## My process
 
